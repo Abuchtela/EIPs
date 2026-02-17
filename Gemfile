@@ -13,7 +13,7 @@ gem "minima", "~> 2.5", ">= 2.5.2"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.14", ">= 0.14.0"
-  gem "github-pages", "224"
+  gem "github-pages", "207"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
